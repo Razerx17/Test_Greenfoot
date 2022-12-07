@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Animation
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sprite\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=images\ speed\ a
+comment1.target=Animation(java.lang.String[],\ double,\ greenfoot.Actor)
+comment2.params=imgPrefix\ count\ speed\ a
+comment2.target=Animation(java.lang.String,\ int,\ double,\ greenfoot.Actor)
+comment3.params=images\ speed\ a
+comment3.target=Animation(greenfoot.GreenfootImage[],\ double,\ greenfoot.Actor)
+comment4.params=
+comment4.target=void\ act()
+numComments=5

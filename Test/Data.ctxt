@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Data
+comment1.params=
+comment1.target=int\ HorizontalInput()
+comment2.params=
+comment2.target=int\ VerticalInput()
+comment3.params=a
+comment3.target=void\ change(greenfoot.Actor)
+numComments=4
