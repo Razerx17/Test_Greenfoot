@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Text\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=text_\ font_\ a_\ b_
+comment1.target=Text(java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color)
+comment2.params=text_\ font_
+comment2.target=Text(java.lang.String,\ int)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=a_\ b_
+comment4.target=void\ setColor(greenfoot.Color,\ greenfoot.Color)
+comment5.params=
+comment5.target=void\ act()
+numComments=6
